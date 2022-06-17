@@ -64,10 +64,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ```bash
 
 # Clone este repositório em seu terminal
-$ git clone git@github.com:carlatakagi/react-test-library.git
+$ git clone git@github.com:carlatakagi/react-testing-library.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd react-test-library
+$ cd react-testing-library
 
 # Instale as dependências:
 $ npm install
